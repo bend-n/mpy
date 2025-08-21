@@ -7,7 +7,7 @@ edition = "2024"
 syn = "2.0.104"
 proc-macro2 = "1.0.78"
 quote = "1.0.40"
-pyo3 = { version = "0.25.1", features = ["extension-module"] }
+pyo3 = { version = "0.25.1" }
 
 [lib]
 proc-macro = true
